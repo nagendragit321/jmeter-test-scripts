@@ -62,4 +62,13 @@ sh jmeter.sh
 
 - [JMeter Documentation](https://jmeter.apache.org/usermanual/index.html)
 
-✅ **JMeter is now successfully installed!**
+**JMeter is now successfully installed!**
+
+**See screenshots below for reference.**
+
+<img width="1341" alt="Screen Shot 2025-03-26 at 6 45 46 PM" src="https://github.com/user-attachments/assets/80b5ccb6-b54a-45b6-8387-3bfd21e92371" />
+
+
+<img width="1344" alt="Screen Shot 2025-03-26 at 6 42 21 PM" src="https://github.com/user-attachments/assets/b775bdb1-a16d-4fc3-98e7-745341a93ba6" />
+
+
